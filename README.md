@@ -1,2 +1,2 @@
-# BCS-Whispers-Login-System
+# BMW-Whispers-Login-System
 身份验证解决方案采用微服务架构，集成了多因素身份验证（MFA）、生物识别技术和动态令牌技术，以实现跨平台快速登录。
